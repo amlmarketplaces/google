@@ -1,0 +1,590 @@
+{
+  "name": "google",
+  "owner": {
+    "name": "Google"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/google-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "google-admin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-admin.git"
+      }
+    },
+    {
+      "name": "google-admob",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-admob.git"
+      }
+    },
+    {
+      "name": "google-ads",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-ads.git"
+      }
+    },
+    {
+      "name": "google-adsense",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-adsense.git"
+      }
+    },
+    {
+      "name": "google-analytics",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-analytics.git"
+      }
+    },
+    {
+      "name": "google-auth",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-auth.git"
+      }
+    },
+    {
+      "name": "google-books",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-books.git"
+      }
+    },
+    {
+      "name": "google-business-profile",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-business-profile.git"
+      }
+    },
+    {
+      "name": "google-calendar",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-calendar.git"
+      }
+    },
+    {
+      "name": "google-campaign-manager-360",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-campaign-manager-360.git"
+      }
+    },
+    {
+      "name": "google-chat",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-chat.git"
+      }
+    },
+    {
+      "name": "google-classroom",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-classroom.git"
+      }
+    },
+    {
+      "name": "google-cloud-apigee",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-apigee.git"
+      }
+    },
+    {
+      "name": "google-cloud-artifact-registry",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-artifact-registry.git"
+      }
+    },
+    {
+      "name": "google-cloud-asset",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-asset.git"
+      }
+    },
+    {
+      "name": "google-cloud-automl",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-automl.git"
+      }
+    },
+    {
+      "name": "google-cloud-bigquery",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-bigquery.git"
+      }
+    },
+    {
+      "name": "google-cloud-bigtable",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-bigtable.git"
+      }
+    },
+    {
+      "name": "google-cloud-build",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-build.git"
+      }
+    },
+    {
+      "name": "google-cloud-composer",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-composer.git"
+      }
+    },
+    {
+      "name": "google-cloud-compute",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-compute.git"
+      }
+    },
+    {
+      "name": "google-cloud-container",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-container.git"
+      }
+    },
+    {
+      "name": "google-cloud-dataflow",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dataflow.git"
+      }
+    },
+    {
+      "name": "google-cloud-dataform",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dataform.git"
+      }
+    },
+    {
+      "name": "google-cloud-dataproc",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dataproc.git"
+      }
+    },
+    {
+      "name": "google-cloud-datastore",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-datastore.git"
+      }
+    },
+    {
+      "name": "google-cloud-deploy",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-deploy.git"
+      }
+    },
+    {
+      "name": "google-cloud-dialogflow",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dialogflow.git"
+      }
+    },
+    {
+      "name": "google-cloud-dialogflow-cx",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dialogflow-cx.git"
+      }
+    },
+    {
+      "name": "google-cloud-discovery-engine",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-discovery-engine.git"
+      }
+    },
+    {
+      "name": "google-cloud-dlp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dlp.git"
+      }
+    },
+    {
+      "name": "google-cloud-dns",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-dns.git"
+      }
+    },
+    {
+      "name": "google-cloud-document-ai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-document-ai.git"
+      }
+    },
+    {
+      "name": "google-cloud-error-reporting",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-error-reporting.git"
+      }
+    },
+    {
+      "name": "google-cloud-firestore",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-firestore.git"
+      }
+    },
+    {
+      "name": "google-cloud-functions",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-functions.git"
+      }
+    },
+    {
+      "name": "google-cloud-iam",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-iam.git"
+      }
+    },
+    {
+      "name": "google-cloud-kms",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-kms.git"
+      }
+    },
+    {
+      "name": "google-cloud-logging",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-logging.git"
+      }
+    },
+    {
+      "name": "google-cloud-memorystore-redis",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-memorystore-redis.git"
+      }
+    },
+    {
+      "name": "google-cloud-monitoring",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-monitoring.git"
+      }
+    },
+    {
+      "name": "google-cloud-natural-language",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-natural-language.git"
+      }
+    },
+    {
+      "name": "google-cloud-pubsub",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-pubsub.git"
+      }
+    },
+    {
+      "name": "google-cloud-recaptcha-enterprise",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-recaptcha-enterprise.git"
+      }
+    },
+    {
+      "name": "google-cloud-resource-manager",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-resource-manager.git"
+      }
+    },
+    {
+      "name": "google-cloud-retail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-retail.git"
+      }
+    },
+    {
+      "name": "google-cloud-run",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-run.git"
+      }
+    },
+    {
+      "name": "google-cloud-scheduler",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-scheduler.git"
+      }
+    },
+    {
+      "name": "google-cloud-secret-manager",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-secret-manager.git"
+      }
+    },
+    {
+      "name": "google-cloud-spanner",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-spanner.git"
+      }
+    },
+    {
+      "name": "google-cloud-speech",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-speech.git"
+      }
+    },
+    {
+      "name": "google-cloud-storage",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-storage.git"
+      }
+    },
+    {
+      "name": "google-cloud-tasks",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-tasks.git"
+      }
+    },
+    {
+      "name": "google-cloud-text-to-speech",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-text-to-speech.git"
+      }
+    },
+    {
+      "name": "google-cloud-trace",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-trace.git"
+      }
+    },
+    {
+      "name": "google-cloud-translate",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-translate.git"
+      }
+    },
+    {
+      "name": "google-cloud-vertex-ai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-vertex-ai.git"
+      }
+    },
+    {
+      "name": "google-cloud-video-intelligence",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-video-intelligence.git"
+      }
+    },
+    {
+      "name": "google-cloud-vision",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-cloud-vision.git"
+      }
+    },
+    {
+      "name": "google-custom-search",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-custom-search.git"
+      }
+    },
+    {
+      "name": "google-display-video-360",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-display-video-360.git"
+      }
+    },
+    {
+      "name": "google-docs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-docs.git"
+      }
+    },
+    {
+      "name": "google-drive",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-drive.git"
+      }
+    },
+    {
+      "name": "google-firebase",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-firebase.git"
+      }
+    },
+    {
+      "name": "google-firebase-admin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-firebase-admin.git"
+      }
+    },
+    {
+      "name": "google-fonts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-fonts.git"
+      }
+    },
+    {
+      "name": "google-forms",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-forms.git"
+      }
+    },
+    {
+      "name": "google-generative-ai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-generative-ai.git"
+      }
+    },
+    {
+      "name": "google-gmail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-gmail.git"
+      }
+    },
+    {
+      "name": "google-identity-toolkit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-identity-toolkit.git"
+      }
+    },
+    {
+      "name": "google-maps",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-maps.git"
+      }
+    },
+    {
+      "name": "google-meet",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-meet.git"
+      }
+    },
+    {
+      "name": "google-merchant",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-merchant.git"
+      }
+    },
+    {
+      "name": "google-people",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-people.git"
+      }
+    },
+    {
+      "name": "google-search-ads-360",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-search-ads-360.git"
+      }
+    },
+    {
+      "name": "google-search-console",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-search-console.git"
+      }
+    },
+    {
+      "name": "google-sheets",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-sheets.git"
+      }
+    },
+    {
+      "name": "google-slides",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-slides.git"
+      }
+    },
+    {
+      "name": "google-tag-manager",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-tag-manager.git"
+      }
+    },
+    {
+      "name": "google-tasks",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-tasks.git"
+      }
+    },
+    {
+      "name": "google-wallet",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-wallet.git"
+      }
+    },
+    {
+      "name": "google-youtube",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-youtube.git"
+      }
+    },
+    {
+      "name": "google-youtube-analytics",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/google-youtube-analytics.git"
+      }
+    }
+  ]
+}
